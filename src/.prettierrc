@@ -1,0 +1,11 @@
+{
+  "printWidth": 120,          // Đặt chiều dài tối đa cho mỗi dòng là 120 ký tự
+  "tabWidth": 2,              // Sử dụng 2 khoảng trắng cho mỗi tab
+  "singleQuote": true,        // Sử dụng dấu nháy đơn thay vì dấu nháy kép cho chuỗi
+  "semi": false,              // Không sử dụng dấu chấm phẩy ở cuối câu lệnh
+  "trailingComma": "es5",     // Thêm dấu phẩy ở cuối các phần tử trong mảng và đối tượng (chỉ với ES5 và sau này)
+  "bracketSpacing": true,     // Thêm khoảng cách giữa dấu ngoặc đơn trong đối tượng (ví dụ: { a: 1 })
+  "jsxBracketSameLine": false, // Đặt dấu `>` trong JSX ở dòng mới (khi có nhiều thuộc tính)
+  "arrowParens": "always",    // Luôn sử dụng dấu ngoặc quanh tham số trong hàm mũi tên (ví dụ: (x) => x)
+  "endOfLine": "lf"           // Sử dụng kiểu dòng mới (LF) thay vì CRLF
+}
