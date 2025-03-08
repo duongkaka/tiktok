@@ -7,3 +7,10 @@
     border-radius: 8px;
     padding-top: 8px;
 }
+
+.menu-popper{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+}
